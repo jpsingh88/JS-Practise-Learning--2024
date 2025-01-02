@@ -86,7 +86,7 @@ multiplyVar = 10;
 console.log(multiplyVar);
 
 let printHello = () => {
-    console.log("Print Arrow Function without passing anyargument");
+    console.log("Print Arrow Function without passing any argument");
 };
 
 console.log(printHello());
@@ -114,9 +114,10 @@ vowelCounter("Jaspreet Singh Chhabra");
 
 // Dec 29,2024
 
-// forEach Loop in Arrays - Higher Order Function/Method
+// forEach Loop in Arrays - Higher Order Function/Method - function to execute for each element in the array
+
 /*
-array.forEach(element => {
+arrayName.forEach(element => {
 }); 
 */
 
