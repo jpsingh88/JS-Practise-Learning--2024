@@ -1,0 +1,31 @@
+p {
+    color: blue;
+}
+
+#line-1 {
+    background: #e5de10;
+}
+
+#button-1 {
+    background-color: #e54910a3;
+}
+
+.newClass {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box {
+    color: blueviolet;
+    border: 1px, solid, red;
+    margin: 15px;
+}
+
+.newPara {
+    color: brown;
+}
+
+.newClass2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid rgb(0, 255, 0);
+    padding: 5px;
+}
